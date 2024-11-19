@@ -1,0 +1,17 @@
+[
+    {
+      "route": [[40.7128, -74.006], [40.7306, -73.9352]],
+      "time": 12,
+      "fare": 20,
+      "distance": 5,
+      "paymentType": "Cash"
+    },
+    {
+      "route": [[40.7128, -74.006], [40.7896, -73.959]],
+      "time": 14,
+      "fare": 15,
+      "distance": 7,
+      "paymentType": "Card"
+    }
+  ]
+  
